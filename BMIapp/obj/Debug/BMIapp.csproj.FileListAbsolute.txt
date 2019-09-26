@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\bin\Debug\BMIapp.exe.config
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\bin\Debug\BMIapp.exe
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\bin\Debug\BMIapp.pdb
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\obj\Debug\BMIapp.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\obj\Debug\BMIapp.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\obj\Debug\BMIapp.exe
+C:\Users\Laptop\Desktop\BMIapp\BMIapp\obj\Debug\BMIapp.pdb
